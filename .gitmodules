@@ -1,0 +1,6 @@
+[submodule "2015-2016"]
+	path = 2015-2016
+	url = https://github.com/team62/2015-2016.git
+[submodule "BNSLibrary"]
+	path = BNSLibrary
+	url = https://github.com/JMarple/BNSLibrary.git
